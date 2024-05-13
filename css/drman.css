@@ -737,7 +737,6 @@ max-height: 100%;
 border-bottom: 2px solid black;
 transition: 2s;
 filter: grayscale(100%);
-z-index: -1;
 
 
 
